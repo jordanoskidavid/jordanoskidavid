@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm David
-Software Engineer Student at FICT - Bitola <br> ![alt text]([http://url/to/img.png](https://images.emojiterra.com/google/noto-emoji/unicode-15.1/color/1024px/1f1f2-1f1f0.png))
+Software Engineer Student at FICT - Bitola <br> ![alt text]([https://images.emojiterra.com/twitter/v14.0/1024px/1f1f2-1f1f0.png])
 📫 You can reach me at jordanoski.david16@gmail.com
 <!--
 **jordanoskidavid/jordanoskidavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
