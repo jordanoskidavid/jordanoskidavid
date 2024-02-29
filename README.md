@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm David
-Software Engineer Student at FICT - Bitola <i class="flag flag-macedonia"></i>
+Software Engineer Student at FICT - Bitola <br> <i class="flag flag-macedonia"></i>
 📫 You can reach me at jordanoski.david16@gmail.com
 <!--
 **jordanoskidavid/jordanoskidavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
